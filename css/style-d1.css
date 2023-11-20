@@ -1,0 +1,154 @@
+body 
+{
+    background-color: bisque;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.header, h2, h3{
+    background-color: rgb(138, 138, 138);
+}
+
+#webforms {
+    line-height: 40px;
+    width: 350px;
+    text-align: right;
+}
+
+.page_width {
+    width: 200px;
+}
+
+.content_width {
+    width: 200px;
+}
+
+.rem_unit {
+    width: 200rem;
+}
+
+.em_unit {
+    width: 200em;
+}
+
+.text_decoration  p:nth-child(2) {
+    text-decoration: solid;
+}
+.text_decoration  p:nth-child(3) {
+    text-decoration: underline;
+}
+.text_decoration  p:nth-child(4) {
+    text-decoration: line-through;
+}
+
+.page_width{
+    width: 80rem;
+    text-align: center;
+}
+.content_width{
+    width: 80%;
+    text-align: center;
+}
+.rem_unit{
+    font-size: 1.5rem;
+}
+.em_unit{
+    font-size: 1.5em;
+}   
+
+.text_transform  p:nth-child(2) {
+    text-transform: uppercase;
+}
+
+.text_transform  p:nth-child(3) {
+    text-transform: lowercase;
+}
+.text_transform  p:nth-child(4) {
+    text-transform: capitalize;
+}
+
+.text_align  p:nth-child(2) {
+    text-align: right;
+}
+
+.text_align  p:nth-child(3) {
+    text-align: center;
+}
+
+.text_align  p:nth-child(4) {
+    text-align: left;
+}
+
+.text_indent  p:nth-child(2) {
+    text-indent: 20px;
+}
+
+.line_height p:nth-child(2) 
+{ 
+    line-height: 2rem; 
+}
+.line_height p:nth-child(2) 
+{ 
+    line-height: 4rem; 
+}
+
+
+.letter_spacing p:nth-child(2) 
+{ 
+    letter-spacing: .2rem; 
+}
+.letter_spacing p:nth-child(3) 
+{ 
+    letter-spacing: .4rem; 
+}
+
+.word_spacing p:nth-child(2) 
+{ 
+    word-spacing: .5rem; 
+}
+.word_spacing p:nth-child(3) 
+{ 
+    word-spacing: 1rem; 
+}
+
+.font_weight p:nth-child(2) 
+{ 
+    font-weight: 300; 
+}
+
+.font_weight p:nth-child(3) 
+{ 
+    font-weight: 400; 
+}
+
+.font_weight p:nth-child(4) 
+{ 
+    font-weight: 500; 
+}
+
+.font_weight p:nth-child(5) 
+{ 
+    font-weight: 800; 
+}
+
+.font_weight p:nth-child(6) 
+{ 
+    font-weight: light; 
+}
+
+.font_weight p:nth-child(7) 
+{ 
+    font-weight: bold; 
+}
+
+.Italic{
+    font-style: italic;
+}
+.Normal{
+    font-style: normal;
+}
+.Oblique{
+    font-style: oblique;
+}
+
+
